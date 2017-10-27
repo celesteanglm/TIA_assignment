@@ -10,13 +10,13 @@ This is my submission for Tech In Asia's Data Engineering/Scientist recruitment 
 4. The `output` folder contains output from data visualizations.
 5. The `test` folder contains tests for models built.
 
-You should now be able to activate that environment with (Mac / Linux) `source activate bt3101` or (Windows) `activate bt3101`
-
 ## Setup Instructions
 
 1. Install `anaconda` URL: https://docs.continuum.io/anaconda/install/
 2. open `environment.yml` with a text editor, change the `prefix` path to the path of your anaconda distribution
 3. `conda env create -f environment.yml`
+
+You should now be able to activate that environment with (Mac / Linux) `source activate tia` or (Windows) `activate tia`
 
 ## Author
 
