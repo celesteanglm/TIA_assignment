@@ -18,4 +18,4 @@ This is my submission for Tech In Asia's Data Engineering/Scientist recruitment 
 
 ## Author
 
-* **Celeste Ang** [LinkedIn](https://www.linkedin.com/in/celesteanglm/)
+* **Celeste Ang** [(LinkedIn)](https://www.linkedin.com/in/celesteanglm/)
