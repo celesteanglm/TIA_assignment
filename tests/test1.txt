@@ -1,0 +1,63 @@
+Amazon got attention around the world when it opened a cashier-less store in Seattle at the end of last year. But while the automated Amazon Go grocery store is still in trial mode, variations on the theme are springing up elsewhere.
+
+A few months ago, Chinese startup Bingobox opened small, staffless convenience stores in Shanghai. Here, a customer scans a QR code to open the door and walk in, scans items to buy, and pays up on the app. A camera checks to make sure only what’s paid for is taken out. A customer support video line is available to sort out problems.
+
+This is now happening on a larger scale in India. One of the leading supermarket chains, HyperCity, has opened up two cashier-less stores in the southern tech hub of Hyderabad.
+
+They’re not fully unmanned. Some customer support and fulfilment staff are on the premises, but there are no cashiers.
+
+HyperCity has been trialing a self-checkout app built by Bangalore-based startup Perpule for several months now in some of its stores in Indian cities. Self-checkout is available for its customers if they choose to use the app.
+
+Two fully cashier-less stores powered by Perpule, which opened a few weeks back, take this a step forward. These new stores are in the two Hyderabad campuses of IT giant Infosys. Being new helps the store use the cashier-less system from the outset instead of trying to integrate it with legacy systems and processes. Also, the tech-savvy crowd in the Infosys campus helps with adoption of a mobile app for offline shopping.
+
+Here’s how it works:
+
+Users scan the barcode of any item to see the product details, price, and deals.
+The app supports multiple digital payment gateways and cards for a self-checkout. At the end, the app generates an invoice.
+To verify payment, a weighing machine coupled with a camera and computer vision can check up to five items. For larger carts, a human doorman does the verification.
+The 3,000-square-foot cashier-less stores are about one-tenth the size of a typical HyperCity supermarket store. It mostly stocks groceries, but there are ongoing “splash sales” of apparel and convenience products.
+
+Adoption and monetization challenges
+I met Perpule co-founder Abhinav Pathak at the beginning of this year when the bootstrapped startup was on the verge of raising US$650,000 from Kstart, the seed funding arm of Indian VC firm Kalaari Capital. Pathak graduated from the National Institute of Technology, Suratkal, and worked for Goldman Sachs in the US, where he saved up money to become an entrepreneur.
+
+His two co-founders, Saketh BSV, and Yogesh Ghaturle, are graduates of the Indian Institute of Technology, Madras. Saketh worked with Pathak at Goldman Sachs, while Ghaturle was with the Samsung Research Institute in Bangalore.
+
+Tech for offline retail, which still accounts for over 95 percent of retail sales in India despite the rapid growth of ecommerce in recent years, seemed like a huge opportunity to them. But they soon ran into challenges of execution on the ground and monetization.
+
+HyperCity CEO Ramesh Menon was one of the first to like the Perpule pitch, which pointed out the analytics and customer engagement possibilities of the app, beyond doing away with queues at cashier counters. Even then, Pathak tells me, integrating the app to legacy billing and inventory systems was a headache. And the stores wanted to see enough traction and impact before they would be willing to pay commission.
+
+See: Here’s why Alibaba is expanding its offline footprint
+
+What clicked for Perpule was offering it as a replacement for PoS (point-of-sale) systems stores were using. This involved building a full checkout system integrated with inventory management – that is, keeping track of products going out, replacements, and new products.
+
+“Now they’re open to paying for Perpule, because they were anyway paying the PoS guys,” says Pathak, adding that the startup currently has a monthly revenue of US$30,000 on a GMV around US$300,000. Apart from HyperCity, Perpule has onboarded other large retail chains like More, Spar, and Big Bazaar.
+
+The HyperCity cashier-less stores are seeing a revenue per square foot twice as much as regular stores, and a daily footfall of over 500, adds Pathak.
+
+Online-to-offline
+The Perpule app uses GPS which can show a user the nearest store that supports it. The app also has a feature that lets users place online orders and pick them up later.
+
+
+Image credit: Perpule.
+
+The fully cashier-less HyperCity stores in Hyderabad could be the next inflection point. Two more such stores are opening shortly in Cyberabad – the tech outpost of Hyderabad. One of them will be in the sprawling campus of Microsoft.
+
+The value proposition here is that it does away with the substantial IT capex and opex involved with opening and running a brick-and-mortar retail store. With Perpule taking care of inventory, payments, and checkout, there’s no need for servers, UPS systems, billing counter terminals, and the expensive software required for traditional store IT. And it slashes the time taken to launch a large store. Pathak calls it a form of SaaS – “store-as-a-service.”
+
+Another development is the entry of Perpule into apparel retail chains Pantaloon and Shoppers Stop. This requires a shift in orientation. “The fundamental difference [as compared to convenience and grocery stores] is that window shopping is 100x in an apparel store,” explains Pathak.
+
+So Perpule is focusing on capturing the digital footprint of the customer in an apparel store – where she spends time, what she looks at, how much time she spend – and not just the self-checkout. It uses geomagnetic tech – previously mapped points in the store are matched with location tracking by magnetic sensors in the customer’s phone. This overcomes the problem of GPS not working indoors.
+
+It is also trying to gamify this. For example, Perpule prompts you to scan the barcodes of clothes you try out – even if you don’t buy them. For every 10 items you scan, you get a special discount voucher. This has a twin benefit. It incentivizes you to try out more clothes which increases the chances of a buy. It also tells the store what attracts you – and what to recommend to you later with offers.
+
+See: As ecommerce steamrolls retail, China’s brick-and-mortar stores fight back with tech
+
+Perpule is a much lighter variation of Amazon Go. The ecommerce giant’s trial offline store is fully automated – that is, it uses computer vision to track a customer from the time she enters the store to picking things off the shelves and the final checkout and verification.
+
+Pathak feels the simplicity of Perpule makes it far more feasible for deployment in a whole range of brick-and-mortar stores – and not just a few hi-tech stores like Amazon Go. The fact that Amazon had to put off its public launch and downplay initial media hype on plans to open 2,000 such stores supports Pathak’s view, at least for now if not “the store of the future.”
+
+I ask him what will happen once he proves the efficacy of his self-checkout, cashier-less model. What will stop the likes of Amazon or Alibaba-backed Paytm to partner offline stores in India with something similar. The recent investment by Amazon India for a five percent stake in Shoppers Stop and plans for “experience centers” featuring Amazon products shows the interest in offline-to-online plays.
+
+Pathak is sanguine about the prospects. “If a tech giant likes what we’re doing, they might as well acquire us instead of building it from scratch and onboarding big offline retailers. So that’s an exit possibility for us,” he quips tongue-in-cheek.
+
+Indian brick-and-mortar retail giants like the Future Group, which recently acquired the HyperCity chain for US$101 million, have been lobbying with the government to curb the heavy discounting on Amazon and other ecommerce marketplaces. “They don’t like Amazon,” says Pathak. “We’re with the offline retailers and they are with us.”
