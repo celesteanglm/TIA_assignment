@@ -13843,51 +13843,6 @@ test 2 =&gt; Cryptocurrencies, Startups
 </div>
 
 </div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[85]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">model2</span> <span class="o">=</span> <span class="n">RandomForestClassifier</span><span class="p">()</span>
-
-<span class="n">classifier2</span> <span class="o">=</span> <span class="n">Pipeline</span><span class="p">([</span>
-    <span class="p">(</span><span class="s1">&#39;vectorizer&#39;</span><span class="p">,</span> <span class="n">CountVectorizer</span><span class="p">()),</span>
-    <span class="p">(</span><span class="s1">&#39;tfidf&#39;</span><span class="p">,</span> <span class="n">TfidfTransformer</span><span class="p">()),</span>
-    <span class="p">(</span><span class="s1">&#39;clf&#39;</span><span class="p">,</span> <span class="n">OneVsRestClassifier</span><span class="p">(</span><span class="n">model</span><span class="p">))])</span>
-
-<span class="n">classifier2</span><span class="o">.</span><span class="n">fit</span><span class="p">(</span><span class="n">X_train</span><span class="p">,</span> <span class="n">Y</span><span class="p">)</span>
-<span class="n">predicted2</span> <span class="o">=</span> <span class="n">classifier</span><span class="o">.</span><span class="n">predict</span><span class="p">(</span><span class="n">X_test</span><span class="p">)</span>
-<span class="n">all_labels2</span> <span class="o">=</span> <span class="n">mlb</span><span class="o">.</span><span class="n">inverse_transform</span><span class="p">(</span><span class="n">predicted2</span><span class="p">)</span>
-
-<span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">all_labels2</span><span class="p">)):</span>
-    <span class="n">labels2</span> <span class="o">=</span> <span class="n">all_labels2</span><span class="p">[</span><span class="n">i</span><span class="p">]</span>
-    <span class="nb">print</span><span class="p">(</span><span class="s1">&#39;test </span><span class="si">{0}</span><span class="s1"> =&gt; </span><span class="si">{1}</span><span class="s1">&#39;</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="n">i</span><span class="p">,</span> <span class="s1">&#39;, &#39;</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">labels2</span><span class="p">)))</span>
-</pre></div>
-
-</div>
-</div>
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-
-<div class="prompt"></div>
-
-
-<div class="output_subarea output_stream output_stdout output_text">
-<pre>test 0 =&gt; Ecommerce, Startups
-test 1 =&gt; Cryptocurrencies, Startups
-</pre>
-</div>
-</div>
-
-</div>
-</div>
-
-</div>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div>
 <div class="inner_cell">
